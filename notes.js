@@ -22,12 +22,12 @@ var fruits = ["apples", "bananas", "cherry"];
 // 	console.log(fruit);
 // })
 
-//what is element? it is the value in that instance of the loop. more common the array is plural
+// what is element? it is the value in that instance of the loop. more common the array is plural
 // and the element is the singular
 
 
-//for loops performs better in terms of tiem on the computer. 
-//for each takes more computing power. 
+// for loops performs better in terms of tiem on the computer. 
+// for each takes more computing power. 
 
 // function backwardFruitsOld(array) {
 // 	var backwardsFruit = []; 
